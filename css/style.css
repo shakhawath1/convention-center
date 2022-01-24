@@ -1,0 +1,13 @@
+.carousel-caption{
+    color: #fff;
+}
+.book-now-btn{
+    background: #EF2F88;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px 25px;
+}
+.social-icon a{
+    margin: 0px 10px;
+}
